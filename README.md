@@ -21,7 +21,7 @@
 <a href="https://github.com/Harshh1143">
   <img src="https://img.shields.io/badge/GitHub-Harshh1143-6366F1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/harsh-mistry-044915321/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="#">
