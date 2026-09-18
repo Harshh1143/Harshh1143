@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/harsh-mistry-044915321/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://github.com/Harshh1143/Harshh1143/blob/main/assets/Harsh_Mistry_Resume.pdf">
   <img src="https://img.shields.io/badge/Résumé-Download-10B981?style=for-the-badge&logo=readdotcv&logoColor=white" />
 </a>
 
